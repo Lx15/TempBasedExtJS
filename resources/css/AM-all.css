@@ -1,0 +1,23 @@
+/*注意：写样式的时候写在对应的类模块中*/
+
+
+/*all*/
+
+* {
+    font-family: Microsoft Yahei, "微软雅黑";
+}
+
+
+/*appheader*/
+
+#app-header-title {
+    color: white;
+    padding: 15px 10px 10px 50px;
+    font-size: 20px;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #4e891f;
+    /*background-image: url(../imgs/logo.png);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 0 0;*/
+}
